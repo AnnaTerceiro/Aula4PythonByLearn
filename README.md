@@ -1,1 +1,2 @@
-# Aula4PythonByLearn
+# Aula 4 - Python - ByLearn
+Operadores Lógicos 
